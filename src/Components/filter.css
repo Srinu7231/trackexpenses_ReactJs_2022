@@ -1,0 +1,23 @@
+.filter-card{
+    background-color: white;
+    padding: 3%;
+}
+.filter-select{
+    display: flex;
+    justify-content: space-between;
+}
+.label{
+    font-weight: bold;
+}
+.select-yr{
+    font: inherit;
+    font-weight: bold;
+    width: 20%;
+    /* justify-content: center;
+     */
+     border-radius: 6px;
+     box-shadow: 1px 1px gray;
+}
+.options{
+    border-radius: 6px;
+}
